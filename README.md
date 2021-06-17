@@ -13,7 +13,7 @@
 
 ## About The Project
 
-![image](/src/drum-machine.PNG)
+![image](/src/drum-machine.png)
 
 Instructions [Drum Machine](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-drum-machine)
 
